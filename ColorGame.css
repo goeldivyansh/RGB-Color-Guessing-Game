@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	background-color: #232323;
 	text-transform: uppercase;
-	font-family: "Roboto", sans-serif;
+	font-family: 'PT Sans', sans-serif;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 	text-align: center;
 	background-color: #3ca8d6;
 	margin: 0;
-	font-family: "Montserrat","Avenir";
+	line-height: 35px;
 }
 
 #colorDisplay {
