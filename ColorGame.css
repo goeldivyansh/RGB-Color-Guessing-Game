@@ -27,13 +27,8 @@ h1 {
 
 #message {
 	display: inline-block;
+	font-weight: 800;
 	width: 30%;
-}
-
-#hard {
-	float: right;
-	margin-right: 27%;
-	text-align: right;
 }
 
 .selected {
@@ -78,6 +73,14 @@ button {
 button:hover {
 	color: white;
 	background-color: #3ca8d6;
+}
+
+.green {
+	color: darkgreen;
+}
+
+.red {
+	color: red;
 }
 
 
